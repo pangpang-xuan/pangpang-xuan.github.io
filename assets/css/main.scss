@@ -43,6 +43,9 @@
 ;
 
 .author__avatar img {
-  max-width: 200px !important; /* 默认大概是100px，改大即可 */
-  border-radius: 50%;          /* 保持圆形 */
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
 }
+
