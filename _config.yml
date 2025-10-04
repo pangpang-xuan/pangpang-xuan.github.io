@@ -30,7 +30,7 @@ author:
   location         : "Shenyang, China"
   employer         : "Northeastern University"
   uri              : # URL
-  email            : "ppangxuan@outlook.com" 
+  email            : "ppangxuan@outlook.com"
 
   # Academic websites
   academia         : # URL
@@ -49,6 +49,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "pangpang-xuan"
+  cv               : "/files/CV_WenxuanJiang.pdf"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
