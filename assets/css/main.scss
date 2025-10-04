@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.author__avatar img {
+  max-width: 200px !important; /* 默认大概是100px，改大即可 */
+  border-radius: 50%;          /* 保持圆形 */
+}
