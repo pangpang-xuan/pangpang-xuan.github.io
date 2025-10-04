@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I’m Wenxuan Jiang, currently a fourth year undergraduate student from at Northeastern University, supervised by Prof. [Guibing Guo](https://guoguibing.github.io/cn/). Currently, I am working as a research internship at [Meituan M17 group](https://tech.meituan.com/tags/美团m17.html), mainly responsible for Longcat evaluation and training. Before that, I am fortunate to work as a research intern with [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/), [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html), [Prof.Shuang Wang](http://faculty.neu.edu.cn/wangsh/en/index/73648/list/index.htm) and [Prof.Xi Xiao](https://www.sigs.tsinghua.edu.cn/xx_443/main.htm). I am deeply grateful to everyone who has stepped forward to share their guidance and wisdom with me, both in my academic pursuits and throughout life's journey.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research primarily focuses on Refinement Learning, LLM reasoning, agent and LLM Application. I'm seeking a 26 Fall PhD or Mphil position. Feel free to reach out to ppangxuan@outlook.com if you have anything you would like to discuss.
 
 A data-driven personal website
 ======
