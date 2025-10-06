@@ -26,14 +26,12 @@ Education
 
 Publications
 ======
-+ SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design
-Wenxin Tang*, Jingyu Xiao*, **Wenxuan Jiang**, Yuhang Wang, Xi Xiao, Xuxin Tang, Qing Li, Yuehe Ma, Junliang Liu, Shisong Tang, Michael R.Lyu.
++ [SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design](https://arxiv.org/abs/2506.07964)\n
+Wenxin Tang*, Jingyu Xiao*, **Wenxuan Jiang**, Yuhang Wang, Xi Xiao, Xuxin Tang, Qing Li, Yuehe Ma, Junliang Liu, Shisong Tang, Michael R.Lyu.\n
 **EMNLP 2025 Oral**
-[paper](https://arxiv.org/abs/2506.07964), [code](https://github.com/vinsontang2126/SlideCoder)
-+ KnowCoder-X: Boosting Multilingual Information Extraction via Code
-Yuxin Zuo*, **Wenxuan Jiang***(co-first author), Wenxuan Liu*, Zixuan Li, Long Bai, Hanbin Wang, Yutao Zeng, Xiaolong Jin, Jiafeng Guo, and Xueqi Cheng.
++ [KnowCoder-X: Boosting Multilingual Information Extraction via Code](https://aclanthology.org/2025.findings-acl.748/)\n
+Yuxin Zuo*, **Wenxuan Jiang***(co-first author), Wenxuan Liu*, Zixuan Li, Long Bai, Hanbin Wang, Yutao Zeng, Xiaolong Jin, Jiafeng Guo, and Xueqi Cheng.\n
 **ACL 2025**
-[paper](https://aclanthology.org/2025.findings-acl.748/), [code](https://github.com/ICT-GoKnow/KnowCoder)
 
 Hobby
 ======
