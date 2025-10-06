@@ -31,7 +31,7 @@ Publications
   Wenxin Tang\*, Jingyu Xiao\*, **Wenxuan Jiang**, Yuhang Wang, Xi Xiao, Xuxin Tang, Qing Li, Yuehe Ma, Junliang Liu, Shisong Tang, Michael R.Lyu.
 + (**ACL 2025**) [KnowCoder-X: Boosting Multilingual Information Extraction via Code](https://aclanthology.org/2025.findings-acl.748/)
 
-  Yuxin Zuo*, **Wenxuan Jiang\***(co-first author), Wenxuan Liu*, Zixuan Li, Long Bai, Hanbin Wang, Yutao Zeng, Xiaolong Jin, Jiafeng Guo, and Xueqi Cheng.
+  Yuxin Zuo*, **Wenxuan Jiang\***(co-first author), Wenxuan Liu*, Zixuan Li, Long Bai, Hanbin Wang, Yutao Zeng, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng.
   
 Hobby
 ======
