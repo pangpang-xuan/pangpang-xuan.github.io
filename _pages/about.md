@@ -10,7 +10,7 @@ redirect_from:
 Hi! I’m Wenxuan Jiang, currently a fourth year undergraduate student at Northeastern University, China, supervised by Prof. [Guibing Guo](https://guoguibing.github.io/cn/). Currently, I am working as a research internship at [Meituan M17 group](https://tech.meituan.com/tags/美团m17.html), mainly responsible for Longcat evaluation and training. Before that, I am fortunate to work as a research intern with [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/) and [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html). I am deeply grateful to everyone who has stepped forward to share their guidance and wisdom with me, both in my academic pursuits and throughout life's journey.
 
 My research primarily focuses on Reinforcement learning, LLM reasoning and MLLM/LLM Application.
-I'm seeking a **26 Fall PhD or Mphil** position. Feel free to reach out to ppangxuan@outlook.com if you have anything you would like to discuss.
+I'm seeking a **26 Fall PhD or Mphil** position. Feel free to email me if you have anything you would like to discuss.
 
 Research Experiences
 ======
