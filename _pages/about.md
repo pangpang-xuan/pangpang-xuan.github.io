@@ -14,13 +14,12 @@ Research Experiences
 ======
 + Meituan, Full-Time Research intern (2025.10 - Now)
 + Tsinghua University, supervised by [Prof. Xi Xiao](https://www.sigs.tsinghua.edu.cn/xx_443/main.htm), Part-Time Research intern (2025.04 - 2025.06)
-+ Northeastern University, supervised by [Prof. Shuang Wang](http://faculty.neu.edu.cn/wangsh/en/index/73648/list/index.htm), Part-Time Research intern (2024.11 - 2025.1)
 + Chinese Academy of Sciences, supervised by [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/) and [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html), Part-Time Research intern (2024.04 - 2024.10)
 
 Education
 ======
-+ Chinese University of Hong Kong, PhD of Systems Engineering & Engineering Management (2026 - Now)
-+ Northeastern University, Bachelor of Engineering (B.E.) (2022 - 2026)
++ Chinese University of Hong Kong, PhD of Systems Engineering & Engineering Management (2026.8 - Now)
++ Northeastern University, Bachelor of Engineering (B.E.) (2022.9 - 2026.6)
 
 
 Publications
