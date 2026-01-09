@@ -18,8 +18,8 @@ Research Experiences
 
 Education
 ======
-+ Chinese University of Hong Kong, PhD of Systems Engineering & Engineering Management (2026.8 - Now)
-+ Northeastern University, Bachelor of Engineering (B.E.) (2022.9 - 2026.6)
++ Chinese University of Hong Kong, PhD of Systems Engineering & Engineering Management (2026.08 - Now)
++ Northeastern University, Bachelor of Engineering (B.E.) (2022.09 - 2026.06)
 
 
 Publications
