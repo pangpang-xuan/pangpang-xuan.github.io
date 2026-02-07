@@ -6,19 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Wenxuan Jiang, currently a fourth-year undergraduate student at Northeastern University, China, and a PhD candidate at CUHK Text-Mining Group, supervised by [Prof. Lam Wai](https://www1.se.cuhk.edu.hk/~textmine/). Currently, I am working as a research internship at [Meituan M17 group](https://tech.meituan.com/tags/美团m17.html), mainly responsible for Longcat evaluation and training. Before that, I am fortunate to work as a research intern with [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/) and [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html). I sincerely thank all who have shared their guidance and wisdom with me, in both my academic work and my life.
+Hi! I’m Wenxuan Jiang, currently a fourth-year undergraduate student at Northeastern University, China, and a PhD candidate at PolyU, supervised by [Prof. Ninghao Liu](https://ninghaohello.github.io/). Currently, I am working as a research internship at [Meituan M17 group](https://tech.meituan.com/tags/美团m17.html), mainly responsible for Longcat evaluation and training. Before that, I am fortunate to work as a research intern with [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/) and [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html). I sincerely thank all who have shared their guidance and wisdom with me, in both my academic work and my life.
 
 My research primarily focuses on Reinforcement learning, LLM reasoning and MLLM/LLM Application.
 
 Research Experiences
 ======
 + Meituan, Full-Time Research intern (2025.10 - Now)
-+ Tsinghua University, supervised by [Prof. Xi Xiao](https://www.sigs.tsinghua.edu.cn/xx_443/main.htm), Part-Time Research intern (2025.04 - 2025.06)
-+ Chinese Academy of Sciences, supervised by [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/) and [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html), Part-Time Research intern (2024.04 - 2024.10)
++ Tsinghua University, Part-Time Research intern (2025.04 - 2025.06)
++ Chinese Academy of Sciences, Part-Time Research intern (2024.04 - 2024.10)
 
 Education
 ======
-+ Chinese University of Hong Kong, PhD of Systems Engineering & Engineering Management (2026.08 - Now)
++ The Hong Kong Polytechnic University, PhD of Department of Computing (2026.09 - Now)
 + Northeastern University, Bachelor of Engineering (B.E.) (2022.09 - 2026.06)
 
 
