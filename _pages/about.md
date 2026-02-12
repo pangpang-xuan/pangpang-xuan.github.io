@@ -22,6 +22,7 @@ My research primarily focuses on Reinforcement learning, LLM reasoning and MLLM/
 
 📚Education
 ======
++ The Hong Kong Polytechnic University, PhD of Department of Computing (2026.09 - Now)
 + Northeastern University, Bachelor of Engineering (B.E.) (2022.09 - 2026.06)
 
 
