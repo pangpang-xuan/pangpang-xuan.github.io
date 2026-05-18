@@ -10,13 +10,12 @@ redirect_from:
 <!-- and a PhD candidate at PolyU, supervised by [Prof. Ninghao Liu](https://ninghaohello.github.io/). -->
 <!-- + The Hong Kong Polytechnic University, PhD of Department of Computing (2026.09 - Now) -->
 # 👋About Me
-Hi! I’m Wenxuan Jiang, currently a fourth-year undergraduate student at Northeastern University, China. Currently, I am working as a research internship at Tencent TEG Hunyuan AI Data. Before that, I am fortunate to work as a research intern with [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/) and [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html). I sincerely thank all who have shared their guidance and wisdom with me, in both my academic work and my life.
+Hi! I’m Wenxuan Jiang, currently a fourth-year undergraduate student at Northeastern University, China. Before that, I am fortunate to work as a research intern with [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/) and [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html). I sincerely thank all who have shared their guidance and wisdom with me, in both my academic work and my life.
 
 My research primarily focuses on Reinforcement learning, LLM reasoning and MLLM/LLM Application.
 
 💼Research Experiences
 ======
-+ Tencent TEG Hunyuan AI Data, Full-Time Research intern (2026.05 - Now)
 + Meituan M17 Group, Full-Time Research intern (2025.10 - 2026.05)
 + Tsinghua University, Part-Time Research intern (2025.04 - 2025.06)
 + Chinese Academy of Sciences, Part-Time Research intern (2024.04 - 2024.10)
