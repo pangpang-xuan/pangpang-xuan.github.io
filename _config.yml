@@ -26,9 +26,9 @@ author:
   avatar           : "wenxuan_jp3.jpg"
   name             : "Wenxuan Jiang"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student in Northeastern University"
-  location         : "Shenyang, China"
-  employer         : "Northeastern University"
+  bio              : "PhD candidate at PolyU"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "ppangxuan@outlook.com"
 
@@ -49,7 +49,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "pangpang-xuan"
-  cv               : "/files/CV.pdf"
+  cv               : "/files/null.pdf"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
