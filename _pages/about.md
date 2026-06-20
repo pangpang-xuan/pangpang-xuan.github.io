@@ -10,19 +10,20 @@ redirect_from:
 <!-- and a PhD candidate at PolyU, supervised by [Prof. Ninghao Liu](https://ninghaohello.github.io/). -->
 <!-- + The Hong Kong Polytechnic University, PhD of Department of Computing (2026.09 - Now) -->
 # 👋About Me
-Hi! I’m Wenxuan Jiang, currently a fourth-year undergraduate student at Northeastern University, China. Before that, I am fortunate to work as a research intern with [Prof.Xiaolong Jin](http://www.bigdatalab.ac.cn/jxl/) and [Prof.Xueqi Cheng](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html). I sincerely thank all who have shared their guidance and wisdom with me, in both my academic work and my life.
+Hi! I’m Wenxuan Jiang, currently a PhD candidate at PolyU, supervised by [Prof. Ninghao Liu](https://ninghaohello.github.io/). Previously, I got both my Bachelor’s degree from the Northeastern University, China. Before that, I am fortunate to work as a research intern with [Zijian Zhang](https://scholar.google.com/citations?user=ko3ByK4AAAAJ&hl=en) in Meituan LongCat Group. I sincerely thank all who have shared their guidance and wisdom with me, in both my academic work and my life.
 
 My research primarily focuses on Reinforcement learning, LLM reasoning and MLLM/LLM Application.
 
 💼Research Experiences
 ======
-+ Meituan M17 Group, Full-Time Research intern (2025.10 - 2026.05)
++ Meituan LongCat Group, Full-Time Research intern (2025.10 - 2026.05)
 + Tsinghua University, Part-Time Research intern (2025.04 - 2025.06)
 + Chinese Academy of Sciences, Part-Time Research intern (2024.04 - 2024.10)
 
 📚Education
 ======
 + Northeastern University, Bachelor of Engineering (B.E.) (2022.09 - 2026.06)
++ The Hong Kong Polytechnic University, PhD of Department of Computing (2026.09 - Now)
 
 
 📝Publications
