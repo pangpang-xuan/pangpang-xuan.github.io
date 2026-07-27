@@ -10,7 +10,7 @@ redirect_from:
 <!-- and a PhD candidate at PolyU, supervised by [Prof. Ninghao Liu](https://ninghaohello.github.io/). -->
 <!-- + The Hong Kong Polytechnic University, PhD of Department of Computing (2026.09 - Now) -->
 # 👋About Me
-Hi! I’m Wenxuan Jiang, currently a PhD student in PolyU, supervised by [Prof. Ninghao Liu](https://ninghaohello.github.io/). Previously, I got my Bachelor’s degree from Northeastern University, China. Before that, I am fortunate to work as a full-time research intern with [Zijian Zhang](https://scholar.google.com/citations?user=ko3ByK4AAAAJ&hl=en) in [Meituan LongCat Team](https://huggingface.co/meituan-longcat). I sincerely thank all who have shared their guidance and wisdom with me, in both my academic work and my life.
+Hi! I’m Wenxuan Jiang, currently a PhD student in PolyU, supervised by [Prof. Ninghao Liu](https://ninghaohello.github.io/). Previously, I got my Bachelor’s degree from Northeastern University, China. Before that, I am fortunate to work as a full-time research intern with [Zijian Zhang](https://scholar.google.com/citations?user=ko3ByK4AAAAJ&hl=en) and [Xuezhi Cao](https://scholar.google.com/citations?user=lqXw00MAAAAJ&hl=zh-CN) in [Meituan LongCat Team](https://huggingface.co/meituan-longcat). I sincerely thank all who have shared their guidance and wisdom with me, in both my academic work and my life.
 
 My research primarily focuses on Reinforcement learning, LLM reasoning and MLLM/LLM Application.
 
