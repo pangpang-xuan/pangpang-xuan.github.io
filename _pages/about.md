@@ -28,10 +28,14 @@ My research primarily focuses on Reinforcement learning, LLM reasoning and MLLM/
 
 📝Publications
 ======
++ (**EMNLP 2026 Main**) [TR-ICRL: Test-Time Rethinking for In-Context Reinforcement Learning](https://arxiv.org/abs/2604.00438)  
+**Wenxuan Jiang**, Yuxin Zuo, Zijian Zhang, Xuecheng Wu, Zining Fan, Wenxuan Liu, Li Chen, Xiaoyu Li, Xuezhi Cao, Xiaolong Jin, Ninghao Liu.
 + (**EMNLP 2025 Oral**) [SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design](https://arxiv.org/abs/2506.07964)  
 Wenxin Tang\*, Jingyu Xiao\*, **Wenxuan Jiang**, Yuhang Wang, Xi Xiao, Xuxin Tang, Qing Li, Yuehe Ma, Junliang Liu, Shisong Tang, Michael R.Lyu.
 + (**ACL 2025**) [KnowCoder-X: Boosting Multilingual Information Extraction via Code](https://aclanthology.org/2025.findings-acl.748/)  
 Yuxin Zuo\*, **Wenxuan Jiang\*** (co-first author), Wenxuan Liu\*, Zixuan Li, Long Bai, Hanbin Wang, Yutao Zeng, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng.
++ (**arxiv 2026**) [OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based Reinforcement Learning](https://arxiv.org/abs/2606.25757)  
+**Wenxuan Jiang**, Zining Fan, Zijian Zhang, Xuecheng Wu, Hongming Tan, Haoyang Dai, Xiaoyu Li, Xuezhi Cao, Ninghao Liu.
   
 👀Hobby
 ======
