@@ -34,8 +34,6 @@ My research primarily focuses on Reinforcement learning, LLM reasoning and MLLM/
 Wenxin Tang\*, Jingyu Xiao\*, **Wenxuan Jiang**, Yuhang Wang, Xi Xiao, Xuxin Tang, Qing Li, Yuehe Ma, Junliang Liu, Shisong Tang, Michael R.Lyu.
 + (**ACL 2025**) [KnowCoder-X: Boosting Multilingual Information Extraction via Code](https://aclanthology.org/2025.findings-acl.748/)  
 Yuxin Zuo\*, **Wenxuan Jiang\*** (co-first author), Wenxuan Liu\*, Zixuan Li, Long Bai, Hanbin Wang, Yutao Zeng, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng.
-+ (**arxiv 2026**) [OPERA: Aligning Open-Ended Reasoning via Objective Perplexity-based Reinforcement Learning](https://arxiv.org/abs/2606.25757)  
-**Wenxuan Jiang**, Zining Fan, Zijian Zhang, Xuecheng Wu, Hongming Tan, Haoyang Dai, Xiaoyu Li, Xuezhi Cao, Ninghao Liu.
   
 👀Hobby
 ======
